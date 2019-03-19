@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Ebenezer
+                    Supermercado Ebenezer
                 </div>
 
                 <div class="links">
